@@ -1,0 +1,29 @@
+streamlit>=1.28.0
+streamlit-chat>=0.1.1
+plotly>=5.17.0
+pandas>=1.5.0
+streamlit-ace>=0.1.1
+boto3>=1.26.0
+botocore>=1.29.0
+numpy>=1.24.0
+pyvespa
+rapidfuzz>=3.0.0
+python-dotenv
+openpyxl>=3.1.0
+rank_bm25
+python-dotenv
+
+# Maritime RAG Streamlit Application Requirements
+
+
+# Additional for better UI
+plotly>=5.0.0
+streamlit-aggrid>=0.3.0
+streamlit-option-menu>=0.3.0
+
+# For HTML rendering and processing
+beautifulsoup4>=4.11.0
+markdown>=3.4.0
+
+# Logging and utilities
+colorlog>=6.7.0

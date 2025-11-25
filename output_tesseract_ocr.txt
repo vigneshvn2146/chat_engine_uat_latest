@@ -1,0 +1,58 @@
+@ N330
+
+A WARNING: Follow precautions for the sake of safety.
+
+3-2. Precautions on Operation
+
+1) Startmg
+
+Start the Engine After Signaling
+Check if no one is around the engine.
+* Ifsomeone is found near the engine, give him a sign that the engine will
+
+- be started. Only then start it.
+e Check the holding capacities of fuel, oil, air, etc. ee SAFETY FIAST
+¢ Be sure to detach the tuming device once the engine is started, and keep
+
+it at its fixed housing spot.
+° Tum on the power supply of the engine protection device before Starting up the engine.
+e After the engine has been stopped for a long time or after the engine has been serviced, be sure to start up the
+engine at the engine side. *
+° Ifthe rotational speed rises extremely rapidly or if you find an usual sound or fume, immediately set the start/stop
+lever in the STOP position to stop the engine.
+
+Check After the Engine Is Started
+Check if pressure values of each instrument/gauge board are normal.
+Check if there are no unusual sound and abnomnal heat buildup.
+
+Check for any leakages of fuel, oil, air, etc.; and if a leakage is found, promptly repair.
+Except in case of emergency, apply the load: after a warming-up.
+
+2) Running
+
+¢ Keep watching the pressure and temperature or checking for unusual sound and abnormal heat buildup.
+e Check whether the engine fully shows its proper performances and record the check results. (Refer to the
+Records of Shop Trial, then record the check results on the Engine Log.)
+
+Take care not to be caught in a rotating part.
+
+© Never allow your hands, body and clothing to make contact or bring close to any rotating part.
+
+Take care not to get hearing loss,
+
+¢ Put on ear protection in engine-room during running, because can cause hearing loss.
+
+Le.
+
+(7X cauion | Take care not to get burnt.
+
+e. During running and immediately after the engine has stopped, the whole engine is heated.
+
+Therefore, take care not to get but. ;
+? e Take care not to allow your hands, body and clothing to make contact with the turbocharger,
+= exhaust manifold, exhaust pipe and/or engine as a whole.
+
+e Ifany abnormality is detected, immediately stop the engine and repair it.
+
+2000.10.25R
+0-6

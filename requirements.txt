@@ -1,0 +1,17 @@
+vespacli
+boto3>=1.28.0
+pandas>=1.5.3
+pyvespa>=0.8.0
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+requests>=2.31.0
+numpy>=1.24.0
+openpyxl
+botocore
+rank_bm25
+vespacli
+rapidfuzz
+jsonschema
+pyspellchecker
+# pytest>=7.3.1
+# pytest-cov>=4.1.0
